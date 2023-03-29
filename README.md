@@ -6,3 +6,4 @@
 
 ### 程式碼
 + https://github.com/CGRGA001/MOI_Taiwan_20m_2022_GeoTiff_to_mat/releases/tag/v20230328a
+  + 使用MATLAB2014a測試通過。
